@@ -1,9 +1,5 @@
-Perfect 👍 A **README file** will make your project look professional on GitHub and also help your faculty understand it quickly.
-Here’s a ready-to-use **README.md** for your project:
 
----
 
-```markdown
 # 🎬 Movie Recommendation System
 
 ## 📌 Project Overview
